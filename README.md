@@ -4,7 +4,7 @@
 1. Exploratory Data Analysis
 2. Fix Missing Values
 3. Map Ordinal Features
-4. Feature Emgineering:
+4. Feature Engineering:
    1) One Hot Encode Categorical Features
    2) Check Correlations Between Features
 
