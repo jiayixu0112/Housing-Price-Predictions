@@ -10,6 +10,7 @@
 
 ## Data Analysis
 1. Seperate Train, Test Datasets
-2. Feature Selection: Recursive Feature Elimination with Cross Validations 
-   * The optimal number of features is 83/152
-   * The top 5 features are: Total Points,
+2. Feature Selection using Recursive Feature Elimination with Cross Validations 
+3. Trained Linear Regression, Lasso CV, Random Forest, and Gradient Boosting Regressions with a grid search for best parameters
+4. Gradient Boosting Regressions has the best R-square (0.836).
+5. Visualized model's fitness and residuals using matplotlib
